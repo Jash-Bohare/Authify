@@ -2,7 +2,7 @@
 title: "Crypto Wallets Explained: Everything You Need to Know"
 datePublished: Thu Dec 04 2025 10:06:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmir9u07i000k02jydd4hdjvc
-slug: crypto-wallets-explained-everything-you-need-to-know
+slug: crypto-wallets-explained-everything-you-nee
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764842031548/e25e3195-a63c-41a4-b8b7-aa70d8945f03.jpeg
 
 ---
