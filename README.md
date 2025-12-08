@@ -1,1 +1,1 @@
-# Authify
+# My Blogs
